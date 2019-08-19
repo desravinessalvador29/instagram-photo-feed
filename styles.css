@@ -1,0 +1,32 @@
+body {
+    background: darkgrey; margin: 0
+}
+
+#header {
+    padding: 10px; background: white; height: 40px; font-size: 40px; font-family: verdana;
+}
+
+.header-title {
+    margin-left: 400px;
+}
+
+div.post {
+    background: white; width: 600px; margin: auto; margin-top: 40px; overflow: hidden;
+}
+
+.post-header {
+    padding: 10px; font-family: verdana; padding-top: 20px; height: 5px;
+}
+
+.post img {
+    width: 100%;
+}
+
+.numbers {
+    color: gray; padding: 10px; float: right; position:relative;
+    bottom:+23px;
+}
+
+.footer {
+    padding: 10px; font-family: verdana;
+}
